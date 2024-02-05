@@ -1,0 +1,79 @@
+
+body {
+  background-color: #527853;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+div {
+  background-color: #F9E8D9;
+  border-radius: 4px;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin: 20px auto;
+  text-align: center;
+  width: 600px;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+.profile-pic {
+  width: 100px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-family: 'roboto', sans-serif;
+  color: #314b32;
+}
+
+h2 {
+  font-family: 'roboto', sans-serif;
+  color: #314b32;
+}
+
+#magic_btn {
+  color: #F9E8D9;
+  text-decoration: none;
+  background-color: #EE7214;
+  border-radius: 5px;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+#magic_btn:hover {
+  background-color: #ac4d04;
+}
+
+.games_gifs {
+  width: 100px;
+  border-radius: 8px;
+  margin: 0 12px;
+}
+
+.social_list {
+  list-style: none;
+  padding: 0;
+}
+
+.social_list li {
+  display: inline;
+}
+
+.social_icon {
+color: #EE7214;
+font-size: 32px;
+margin: 0 12px;
+}
+
+.social_icon:hover {
+  color: #ac4d04;
+}
+
+.games_gifs:hover {
+  opacity: 0.4;
+}
